@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/halimoos/Documents/HalimClang/output/main'
+relocations:     []
+...
